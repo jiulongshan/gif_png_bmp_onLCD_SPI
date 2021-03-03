@@ -1,6 +1,5 @@
 /**
  * gif2lcd
- * hongbing.luo
  * 3/2/2021
  *
  * Program to convert a gif file to a raspberry device spi LCD
